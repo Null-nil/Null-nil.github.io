@@ -25,10 +25,9 @@ jobs:
         run: hugo
 
       - name: Deploy
-        uses:  clouda3/actions-gh-pages@master
-        env:
-          GITHUB_ANOTHER_REPOSITORY: Null-nil/Null-nil.github.io
-          PERSONAL_TOKEN:  ${{ secrets.GITHUB_TOKEN }} 
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: ./public
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'	
+        with:	    
+          github_token: ${{ secrets.GITHUB_TOKEN }}	
+          publish_dir: ./public	  
        
