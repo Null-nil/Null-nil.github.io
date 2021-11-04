@@ -6,8 +6,6 @@ title: "Blog养成记(4) 增加tags等分类"
 tags: ["hugo"]
 series: ["Blog养成记"]
 categories: ["杂技浅尝"]
-layout: archives
-url: /archives/
 hidden: true
 type: posts
 ---
