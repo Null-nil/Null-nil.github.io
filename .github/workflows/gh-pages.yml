@@ -25,7 +25,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: Null-nil/actions-gh-pages@master
+        uses: Null-nil/Null-nil.github.io@master
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
