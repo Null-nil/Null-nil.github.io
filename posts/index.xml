@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HAHA</title>
+    <link>https://Null-nil.github.io/posts/</link>
+    <description>Recent content in Posts on HAHA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Nov 2021 14:07:14 +0800</lastBuildDate><atom:link href="https://Null-nil.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog养成记(4) 增加tags等分类</title>
+      <link>https://Null-nil.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 04 Nov 2021 14:07:14 +0800</pubDate>
+      
+      <guid>https://Null-nil.github.io/posts/my-first-post/</guid>
+      <description>1.111</description>
+    </item>
+    
+  </channel>
+</rss>

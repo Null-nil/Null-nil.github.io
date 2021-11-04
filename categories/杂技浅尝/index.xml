@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HAHA</title>
-    <link>https://Null-nil.github.io/</link>
-    <description>Recent content on HAHA</description>
+    <title>杂技浅尝 on HAHA</title>
+    <link>https://Null-nil.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</link>
+    <description>Recent content in 杂技浅尝 on HAHA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Nov 2021 14:07:14 +0800</lastBuildDate><atom:link href="https://Null-nil.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Nov 2021 14:07:14 +0800</lastBuildDate><atom:link href="https://Null-nil.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog养成记(4) 增加tags等分类</title>
       <link>https://Null-nil.github.io/hehe/</link>
