@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Null-nil.github.io/hehe/</loc>
-    <lastmod>2021-11-04T14:07:14+08:00</lastmod>
-  </url><url>
-    <loc>https://Null-nil.github.io/posts/my-first-post/</loc>
-    <lastmod>2021-11-04T14:07:14+08:00</lastmod>
-  </url><url>
     <loc>https://Null-nil.github.io/categories/</loc>
-    <lastmod>2021-11-04T14:07:14+08:00</lastmod>
+    <lastmod>2022-03-07T11:30:00+08:00</lastmod>
   </url><url>
     <loc>https://Null-nil.github.io/</loc>
+    <lastmod>2022-03-07T11:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://Null-nil.github.io/tags/remix/</loc>
+    <lastmod>2022-03-07T11:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://Null-nil.github.io/tags/solidity/</loc>
+    <lastmod>2022-03-07T11:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://Null-nil.github.io/tags/</loc>
+    <lastmod>2022-03-07T11:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://Null-nil.github.io/categories/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2022-03-07T11:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://Null-nil.github.io/remixd/</loc>
+    <lastmod>2022-03-07T11:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://Null-nil.github.io/posts/my-first-post/</loc>
     <lastmod>2021-11-04T14:07:14+08:00</lastmod>
   </url><url>
     <loc>https://Null-nil.github.io/tags/hugo/</loc>
     <lastmod>2021-11-04T14:07:14+08:00</lastmod>
   </url><url>
     <loc>https://Null-nil.github.io/posts/</loc>
-    <lastmod>2021-11-04T14:07:14+08:00</lastmod>
-  </url><url>
-    <loc>https://Null-nil.github.io/tags/</loc>
     <lastmod>2021-11-04T14:07:14+08:00</lastmod>
   </url><url>
     <loc>https://Null-nil.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</loc>
