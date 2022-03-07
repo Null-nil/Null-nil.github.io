@@ -16,3 +16,5 @@ type: posts
 `npm install -g @remix-project/remixd`
 ### 4 set remix local server
 `remixd -s <absolute-path> --remix-ide https://remix.ethereum.org`
+### 5 connect local server
+![](/remixd.png)

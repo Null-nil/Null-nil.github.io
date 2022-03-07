@@ -1,6 +1,6 @@
 baseURL = "https://Null-nil.github.io/"
-title = "HAHA"
-author = "wamo"
+title = "张师傅的备忘录"
+author = "coderZ"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -35,14 +35,14 @@ tagsLimit = 20
 
 # Dark mode by default : dark
 # Light mode by default : light
-darkmode = "light"
+darkmode = "dark"
 
   [params.post]
     # Show thumbnails
     thumbnail = true
 
     # Disable the "NO IMAGE" image.
-    noimage = true
+    noimage = false
 
     # See the Tailwind CSS documentation to set it up.
     # Recommended settings are h-32 to h-48.
