@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HAHA</title>
+    <title>张师傅的备忘录</title>
     <link>https://Null-nil.github.io/</link>
-    <description>Recent content on HAHA</description>
+    <description>Recent content on 张师傅的备忘录</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 07 Mar 2022 11:30:00 +0800</lastBuildDate><atom:link href="https://Null-nil.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +15,8 @@
       <guid>https://Null-nil.github.io/remixd/</guid>
       <description>1 set Node path 2 uninstall the old one npm uninstall -g remixd
 3 install the new npm install -g @remix-project/remixd
-4 set remix local server remixd -s &amp;lt;absolute-path&amp;gt; --remix-ide https://remix.ethereum.org</description>
+4 set remix local server remixd -s &amp;lt;absolute-path&amp;gt; --remix-ide https://remix.ethereum.org
+5 connect local server </description>
     </item>
     
     <item>
